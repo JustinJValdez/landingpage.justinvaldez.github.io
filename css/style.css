@@ -86,7 +86,7 @@ header a:hover {
 /*backgroundImage*/
 #backgroundImage {
   min-height: 400px;
-  background: url("img/background-image.jpg") no-repeat 0 -450px;
+  background-image: url("img/background-image.jpg") no-repeat 0 -450px;
   color: #ffffff;
   text-align: center;
 }
